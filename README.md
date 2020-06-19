@@ -1,0 +1,3 @@
+# dice
+Dice script premium 
+
